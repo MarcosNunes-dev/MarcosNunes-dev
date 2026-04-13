@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos! 👋
 
-🎓 **Estudante de TPSI (Nível 5)**
+🎓 **Estudante de TEPSI (Nível 5)**
 - Técnico Especialista em Tecnologias e Programação de Sistemas de Informação.
 - Atualmente focado em construir uma base sólida e polivalente para dominar diversos ecossistemas tecnológicos.
 
